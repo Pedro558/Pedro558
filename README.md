@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedro558&label=Profile%20views&color=0e75b6&style=flat" alt="pedro558" /> </p>
 
-- 🔭 I’m currently working on **Rocketseat's Explorer Course**
+- 📚 I’m currently studying on **Rocketseat's Explorer Course**
 
 - 🌱 I’m currently learning **JavaScript and NodeJS**
 
