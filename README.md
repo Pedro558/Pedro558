@@ -9,7 +9,7 @@
 I started this journey in 2018 after starting college and since then I've been learning about software engineering. We're lifelong learners, so grab your coffee, sit back, and let's code!
 
 *   🌍  I'm based in Rio de Janeiro, Brazil
-*   ✉️  You can contact me at [https://www.linkedin.com/in/pedro-afonso-lkdn/](mailto:https://www.linkedin.com/in/pedro-afonso-lkdn/)
+*   ✉️  You can contact me at [here](mailto:https://www.linkedin.com/in/pedro-afonso-lkdn/).
 *   🧠  I'm learning React, Next and TypeScript.
 *   🤝  I'm open to collaborating on Meaningful projects
 
